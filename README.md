@@ -11,4 +11,4 @@ Some of the main features:
 Additional functionality/features added (not specified by the SRS):
 - PBKDF2 Salted hashing to store and verify password information
 - Luhn's Algorithm to validate credit card number provided for payment
-- Java threading with a blocking queue to deal with the concurrency problem of multiple customers potentially booking the same space at once
+- Java threading with blocking queues to deal with the concurrency problem of multiple customers potentially booking the same space at once
