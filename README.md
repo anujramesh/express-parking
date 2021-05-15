@@ -1,4 +1,4 @@
-# express-parking
+# Express Parking
 
 An interactive parking booking and payment management system based on a software requirements specification (SRS) provided by the instructor.</br>
 Some of the main features:
